@@ -1,0 +1,7 @@
+sudo apt-get update
+sudo apt-get upgrade
+Ubuntu 16.04: How to install OpenCVShell
+
+$ sudo apt-get install build-essential cmake pkg-config
+1
+$ sudo apt-get install build-essential cmake pkg-config
